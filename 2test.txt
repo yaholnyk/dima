@@ -1,1 +1,1 @@
-This is just a test file.The first commit is already done.The second is already too.
+This is just a test file.The first commit is already done.
